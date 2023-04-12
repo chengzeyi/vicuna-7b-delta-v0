@@ -3,6 +3,9 @@ license: apache-2.0
 inference: false
 ---
 
+**NOTE: New version available**  
+Please check out a newer and better version https://huggingface.co/lmsys/vicuna-7b-delta-v1.1
+
 **NOTE: This "delta model" cannot be used directly.**  
 Users have to apply it on top of the original LLaMA weights to get actual Vicuna weights.  
 See https://github.com/lm-sys/FastChat#vicuna-weights for instructions.
