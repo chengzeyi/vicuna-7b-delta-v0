@@ -4,7 +4,8 @@ inference: false
 ---
 
 **NOTE: New version available**  
-Please check out a newer and better version https://huggingface.co/lmsys/vicuna-7b-delta-v1.1
+Please check out a newer version of the weights at https://huggingface.co/lmsys/vicuna-7b-delta-v1.1  
+If you still want to use this old version, please see the compatibility and difference between different versions at https://github.com/lm-sys/FastChat/blob/main/docs/vicuna_weights_version.md
 
 **NOTE: This "delta model" cannot be used directly.**  
 Users have to apply it on top of the original LLaMA weights to get actual Vicuna weights.  
